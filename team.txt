@@ -1,3 +1,3 @@
 Gruppnamn:Git Masters
-Favoritspråk: c#
-Projektstatus: Påbögit jat
+Favoritspråk: Python
+Projektstatus: Påbörjat
